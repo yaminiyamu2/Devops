@@ -1,1 +1,31 @@
+***What is SDLC?
+    SDLC is stands for "Software Development Life Cycle".It's a structured process used for developing s/w applications. 
+The main phases typically include:
 
+1.Planning:Defining the project  scope,objectives and feasibility.
+2.Requirements Gathering:collecting functional and non-functionalrequirement from stakeholders.
+3.Design:Creating architectural and designs,including ser interfaces and system interfaces.
+4.Implementation:Writing and compiling the code based on the design specification.
+5.Testing:Verifing that the s/w meets the specified requirements and identifying any defects.
+6.Deployment:Releasing the s/w to users and ensuring it's functioning as expected.
+7.Maintenance:Providing ongoing support,bug fixes,and updates as needed.
+      Different models os SDLC(Like waterfall,Agile,Spiral)may emphasize these phases differently,but the overall
+goal is to ensure a systematic approach to s/w development for quality and efficiency.
+
+What is Waterfall Methodology?
+     The waterfall methodology is a project management techniques that involves a series of sequential phases that are completed in order,simila to theflow of waterfall.
+Analysis-------
+              Design------
+                        Implememttation-----
+                                           Testing-----
+                                                      Maintenance
+    The waterfall methodology is often used in s/w &product development.It's charcterizes by:
+1.Regidity:Unlike more flexible methods,the waterfall methodology requires each phases to be completed before the next one can begin.
+2.Upfront Planning:The waterfall methodology emphasizes early planing and documentationa to minimize risk and ensure a predictable release data.
+3.Visulization:The waterfall methodology is often represented as a flow chart or Grantt chart,which helps to visualize how long each task will take and who is responsible for it.
+4.Suitability:The waterfall methodology is a good fit for projects where the end result is clear before the project begins.
+              however,it's not recommanded for complex projects because os its inflexibility.
+
+What is Agile methodology?
+    
+              
